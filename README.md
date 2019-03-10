@@ -1,33 +1,16 @@
-<a href=https://github.com/Ch1ckenscoop/Project><img align=left src=https://github.com/Ch1ckenscoop/svn/blob/master/wiki/ch1ckenscoop_logo.jpg width=122/></a>
-[]()
 
-###### Ch1ckenscoop ASW<a href=https://github.com/Ch1ckenscoop/Project><img align=center src=https://github.com/Ch1ckenscoop/svn/blob/master/wiki/asw_logo.png width=40/></a>
-[]()
-
-##### Welcome to the Ch1ckenscoop Project page!
-Server.dll, statistics website code, and server downloads for the Ch1ckenscoop Alien Swarm mod!
-
+#### Unzip the downloaded file & put .vpk file into the path as below:
 ---
+##### For Server addons:
+ - 'path\servername\reactivedrop\addons\
+ - For example:  c:\AlienSwarmRDServer\reactivedrop\addons\
 
-##### Project Home | [`Downloads`](https://github.com/Ch1ckenscoop/Downloads) | [`Wiki`](https://github.com/Ch1ckenscoop/svn/tree/master/wiki) | [`Issues`](https://github.com/Ch1ckenscoop/svn/issues) | [`Source`](https://github.com/Ch1ckenscoop/svn) |
+##### For PC addons:
+ - C:\Program Files(x86)\Steam\steamapps\common\Alien Swarm Reactive Drop\reactivedrop\addons
 
-##### Featured
-* [**InstallServer**](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/InstallServer.wiki)
-* [`Changing Settings`](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/Changing_Settings.wiki)
-* [`Hordemode`](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/Hordemode.wiki)
-* [`Show all`](https://github.com/Ch1ckenscoop/svn/tree/master/server/swarm/cfg) 
+###### sounds.vpk
+ - provide the missing queen sound and hl2 aliens sound effects
 
-##### Addition Mod
-* [**`Alien Swarm Reactivedrop`**](https://github.com/Ch1ckenscoop/svn/blob/master/wiki/ccasrd.wiki)
+###### cc_trollface.vpk 
+ - change the smile face icon
 
----
-
-##### Project information
-
-##### The project was created on Oct 13, 2011
-
- * License:  [GNU GPL v3](http://www.gnu.org/licenses/gpl-3.0-standalone.html)
- * 11 stars
- * svn-based source control
- 
-##### The project was migrated from Googlecode to Github on Apr 11, 2016

@@ -1,4 +1,4 @@
-<a href=http://github.com/softcopy/Project><img align=right src=https://github.com/softcopy/svn-rd/blob/master/wiki/googlecode-home.png /></a>
+<a href=https://github.com/Softcopy/Project/blob/master/README-RD.md><img align=right src=https://github.com/softcopy/svn-rd/blob/master/wiki/googlecode-home.png /></a>
 
 #### Unzip the downloaded file & put .vpk file into the path as below:
 ---
